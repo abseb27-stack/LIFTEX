@@ -1,4 +1,25 @@
-<!DOCTYPE html>
+index.html
+assets/
+└── images/
+    ├── door-aluminium-01.jpg
+    ├── door-aluminium-02.jpg
+    ├── door-aluminium-03.jpg
+    ├── door-aluminium-04.jpg
+    ├── door-aluminium-05.jpg
+    ├── door-pvc-01.jpg
+    ├── door-pvc-02.jpg
+    ├── window-aluminium-01.jpg
+    ├── window-aluminium-02.jpg
+    ├── window-pvc-01.jpg
+    ├── window-pvc-02.jpg
+    ├── window-pvc-03.jpg
+    ├── shower-01.jpg
+    ├── shower-02.jpg
+    ├── kitchen-01.jpg
+    ├── kitchen-02.jpg
+    ├── kitchen-03.jpg
+    └── kitchen-04.jpg
+    <!DOCTYPE html>
 <html lang="fr" dir="ltr">
 <head>
 <meta charset="UTF-8">

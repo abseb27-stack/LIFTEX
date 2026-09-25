@@ -648,4 +648,12 @@ setLang("fr");
 </script>
 </body>
 </html>
-filepaths
+index.html
+assets/
+  images/
+    door-aluminium-01.jpg ... 05.jpg
+    door-pvc-01.jpg, door-pvc-02.jpg
+    window-aluminium-01.jpg, window-aluminium-02.jpg
+    window-pvc-01.jpg, window-pvc-02.jpg, window-pvc-03.jpg
+    shower-01.jpg, shower-02.jpg
+    kitchen-01.jpg ... 04.jpg
